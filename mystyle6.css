@@ -1,0 +1,37 @@
+/* * {
+    box-sizing: border-box;
+} */
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(151, 75, 151);
+    color: white;
+    padding-block: 16px;
+    text-align: center;
+
+}
+main{
+    padding: 8px;
+    display: flex;
+    column-gap: 8px;
+
+}
+section{
+    background-color: cyan;
+    padding: 8px;
+}
+.btn-container{
+    display: flex;
+    justify-content:space-between ;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+.button-container{
+    flex-grow: 1;
+
+}
+.btn-container button:last-child{
+    width: 100%;
+}

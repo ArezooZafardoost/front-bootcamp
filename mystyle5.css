@@ -1,0 +1,409 @@
+
+  body{
+  background-color:rgb(219, 224, 230);
+  height: auto;
+  overflow: auto;
+
+}
+.container{
+  display: flex;
+ }
+ 
+.asid{
+  background-color: white;
+  width: 200px;
+  height: 2500px;
+  margin-left: 200px;
+}
+
+.asid img{
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+
+h3{
+  margin-left: 15px ;
+
+}
+ 
+h5{
+  margin-left: 15px;
+  color:thistle;
+}
+
+.main{
+ width: 800px;
+}
+
+h1{
+  margin-left: 13px;
+}
+table:hover{
+  background-color: #a5afb3;
+}
+.button1{
+  background-color: black;
+  color: white;
+  border: white;
+  margin-left: 5px;
+}
+.button2{
+  border: white;
+  background-color: white;
+
+}
+.button2:hover {
+  background-color: #a5afb3;
+  color: white;
+}
+.button3{
+  border: white;
+  background-color: white;
+
+}
+.button3:hover {
+  background-color: #a5afb3;
+  color: white;
+}
+.button4{
+  border: white;
+  background-color: white;
+
+}
+.button4:hover {
+  background-color: #a5afb3;
+  color: white;
+}
+h5{
+  color: rgb(75, 72, 72);
+}
+.container2{
+  display:flex;
+  flex-wrap: wrap;
+
+  
+  
+
+  
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: 5px;
+
+  
+ 
+}
+h2{
+  margin-left: 5px;
+}
+p{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+ img:hover{
+  
+	opacity:0.6;
+	filter:alpha(opacity=60);
+ 
+}
+
+button{
+ background-color:rgb(217, 225, 235);
+ border:rgb(217, 225, 235) ;
+ align-items: center;
+
+
+}
+.button5{
+  margin-left: 380px;
+  margin-top: 50px;
+}
+.button5:hover{
+  background-color: black;
+  color: white;
+  
+
+}
+
+.button6{
+  background-color: black;
+  color: white;
+  
+
+}
+
+.button6:hover{
+  background-color: #a5afb3;
+  color: white;
+
+}
+.button7:hover{
+  background-color: black;
+  color: white;
+
+}
+.button8:hover{
+  background-color: black;
+  color: white;
+
+}
+.button9:hover{
+  background-color: black;
+  color: white;
+
+}
+
+.button10:hover{
+  background-color: black;
+  color: white;
+
+}
+.cardimg{
+  margin-left: 25px;
+  margin-top: 15px;
+ 
+  
+}
+.Photography1{
+  background-color:dimgray;
+  width: 70%;
+  text-align: center;
+  color: white;
+}
+.Photography2{
+  background-color: dimgray;
+  width: 60%;
+  text-align: center;
+  color: white;
+}
+.Photography3{
+  margin-top: 5px;
+  background-color: dimgray;
+  width: 50%;
+  text-align: center;
+  color: white;
+  
+}
+.button12{
+  color: white;
+  margin-top: 20px;
+  background-color:dimgray ;
+  width: 180px;
+  height: 40px;
+}
+.button12:hover{
+  background-color:#a5afb3 ;
+}
+
+.officecall{
+  float: left;
+  width: 250px;
+  text-align: center;
+  
+  
+}
+ul{
+ 
+  padding: 18px ;
+  border:1px solid dimgray;
+
+}
+
+.button13{
+  background-color: turquoise;
+  width: 20%;
+  height: 50px;
+}
+
+.officecall2{
+  float: right;
+  width: 250px;
+  text-align: center;
+  margin-right: 600px;
+  
+
+}
+.button14{
+  background-color:turquoise ;
+  width: 20%;
+  height: 50px;
+
+}
+.neveshteha{
+  background-color:rgb(100, 104, 104);
+  width: 919.5px;
+  height: 5px;
+  margin-left: 326px;
+
+
+}
+  
+
+.formbox{
+  display:flex;
+  justify-content:start ;
+  flex-wrap: wrap;
+  border: 1px solid rgb(100, 104, 104) ;
+  background-color:rgb(100, 104, 104) ;
+  width: 918px;
+  height: 500px;
+  margin-left: 326px;
+ 
+
+
+}
+
+
+.box1{
+  border: 1px solid rgb(142, 146, 146);
+  background-color:rgb(142, 146, 146) ;
+  width: 285px;
+  height: 70px;
+  text-align: center;
+  margin-left: 15px;
+  margin-top: 50px;
+
+}
+.box2{
+  border: 1px solid rgb(32, 175, 175);
+  background-color:rgb(32, 175, 175) ;
+  width: 285px;
+  height: 70px;
+  text-align: center;
+  margin-top: 50px;
+}
+.box3{
+  border: 1px solid rgb(142, 146, 146);
+  background-color:rgb(142, 146, 146) ;
+  width: 285px;
+  height: 70px;
+  text-align: center;
+  margin-top: 50px;
+
+}
+
+input[type=text] {
+  width: 115%;
+  padding: 12px 20px;
+  margin-left: 15px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.button15{
+  width: 110px;
+  height: 30px;
+  background-color: black;
+  color: white;
+
+
+}
+.button15:hover{
+  background-color: rgb(156, 158, 161);
+}
+
+
+.footer{
+  display:flex;
+  justify-content:space-between;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  border:1px solid rgb(76, 78, 78) ;
+  background-color:rgb(76, 78, 78)  ;
+  width: 960px;
+  height: 150px;
+  margin-top: 146px;
+ 
+}
+.footerakhar{
+  background-color: black;
+  color: white;
+  width: 960px;
+  height: 100px;
+  text-align: center;
+
+
+}
+
+@media screen and (max-width: 520px){
+  .container{
+    flex-direction: column;
+  }
+  .container2{
+    flex-direction: column;
+
+  }
+  .asid{
+    width: 200px;
+  }
+  .main{
+    width: 800px;
+   }
+   .card{
+     max-width: 300px;
+   }
+   .Photography1{
+     width: 70%;
+   }
+   .Photography2{
+     width: 60%;
+   }
+   .Photography3{
+     width: 50%;
+   }
+   .button12{
+     width: 180px;
+   }
+   .officecall{
+     width: 250px;
+   }
+   .button13{
+     width: 20px;
+   }
+   .officecall2{
+     width: 250px;
+   }
+   .button14{
+     width: 20px;
+   }
+   .neveshteha{
+     width: 919.5;
+   }
+   .formbox{
+     width: 918px;
+   }
+   .box1{
+     width: 285px;
+   }
+   .box2{
+     width: 285px;
+   }
+   .box3{
+     width: 285px;
+   }
+   input[type=text]{
+     width: 115%;
+   }
+   .button15{
+     width: 110px;
+   }
+   .footer{
+     width: 960px;
+   }
+   .footerakhar{
+     width: 960px;
+   }
+  
+}
+  
+
+
+
+
+
+
+
+ 
